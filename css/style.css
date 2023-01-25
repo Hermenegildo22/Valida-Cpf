@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to left, rgb(13 21 25 / 100%), rgb(13 18 23 / 100%));
+}
+
+#saida1{
+    color: white;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+footer{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 100px;
+	background: #881212;
+}
+
+footer p{
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 20px; 
+}
+#navv{
+    border-radius: 10px;
+ background-color: rgb(148,-115,40);
+}
+
+.container-fluid{
+    flex-direction: column;
+}
